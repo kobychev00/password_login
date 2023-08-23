@@ -8,7 +8,7 @@ public class PasswordLoginController {
 
     @GetMapping
     public String welcome() {
-        return "get ready to introduce yourself";
+        return "get ready to introduce yourself!";
     }
 }
 
